@@ -1,3 +1,3 @@
 # DB_mri_movies
 
-Movies from DB (what is that?)
+Movies from Dani Bird at USC Linguistics.
